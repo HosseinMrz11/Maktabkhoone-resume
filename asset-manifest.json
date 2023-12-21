@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Maktabkhoone-resume/static/css/main.bbe7aca7.css",
+    "main.js": "/Maktabkhoone-resume/static/js/main.df06dfc9.js",
+    "static/media/logo.svg": "/Maktabkhoone-resume/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "/Maktabkhoone-resume/index.html",
+    "main.bbe7aca7.css.map": "/Maktabkhoone-resume/static/css/main.bbe7aca7.css.map",
+    "main.df06dfc9.js.map": "/Maktabkhoone-resume/static/js/main.df06dfc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe7aca7.css",
+    "static/js/main.df06dfc9.js"
+  ]
+}
