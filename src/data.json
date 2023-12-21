@@ -1,0 +1,85 @@
+{
+  "title": "سلام من حسین میرزاآقازاده هستم",
+  "subtitle": "FullStack Developer | GraphicDesigner | Gamer",
+  "links": {
+    "github": "https://github.com/HosseinMrz11",
+    "linkedin": "https://www.linkedin.com/in/hossein-mrz-b6a311290",
+    "StackOverFlow": "https://stackoverflow.com/users/21220059/",
+    "Telegram": "https://www.telegram.com/hossein_mrz11",
+    "instagram": "https://www.instagram.com/hossein_mrz11/",
+    "Site": "https://www.hosseinmrz.ir/"
+  },
+  "sections": [
+    {
+      "title": "درباره من",
+      "items": [
+        {
+          "type": "p",
+          "content": "تمایل به کشف موارد جدید و علاقه زیادی به حل چالش‌های گوناگون در زمینه‌های مختلف داشتن باعث شد وارد حرفه‌ی پرچالش و عمیق برنامه‌نویسی بشوم و هر روز بیشتر در این دنیای بزرگ غرق می‌شوم. در حال حاضر با مهارت هایی نرم مانند کار تیمی، مذاکره، خوش برخوردی، پرورش ایده و مهارت های سخت مانند PHP , UI , UX و ... با علاقه مشغول به فعالیت هستم. در 6 سال گذشته سابقه زیادی در طراحی سایت و فروشگاه‌های اینترنتی، سئو و بهینه سازی، تست امنیت وب‌سایت‌ها، دیجیتال مارکتینگ و... داشته‌ام."
+        },
+        {
+          "type": "p",
+          "content": "من در تلاشم همیشه بروز باشم"
+        }
+      ]
+    },
+    {
+      "title": "مهارت",
+      "items": [
+        {
+          "type": "b",
+          "content": {
+            "image": "images/php.png",
+            "title": "PHP"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/js.png",
+            "title": "js"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/html.png",
+            "title": "html"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/css.png",
+            "title": "css"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/react.png",
+            "title": "react"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/bootstrap.jpg",
+            "title": "bootstrap"
+          }
+        },
+        {
+          "type": "b",
+          "content": {
+            "image": "images/csharp.png",
+            "title": "C#"
+          }
+        }
+      ]
+    },
+    {
+      "title": "درخواست مشاوره"
+    }
+
+  ]
+}

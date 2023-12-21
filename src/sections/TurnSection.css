@@ -1,0 +1,22 @@
+input[type=text],[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: right;
+  }
+
+  label{
+    color: black;
+  }
+  
+  button{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: #ccc;
+  }
